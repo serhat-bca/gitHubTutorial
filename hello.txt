@@ -1,1 +1,2 @@
 Hello from Bergen added by student1.
+Hello from student2
